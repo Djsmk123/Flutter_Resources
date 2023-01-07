@@ -1,5 +1,13 @@
 # Flutter Resources
 
+```
+   Future<void> main() await {
+        final res=await getFlutterResources();
+        print(res);
+   }
+
+```
+
 ## Introduction
 
 - [Flutter](https://flutter.dev/) is a mobile app SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single codebase.
@@ -189,7 +197,7 @@
 
 - [Flutter Course](https://www.youtube.com/playlist?list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT): A complete Flutter course by the [Vandad Nahavandipoor](https://twitter.com/vandadnp) on Youtube.
 
-- [Flutter Bootcamp with Dart](https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart): A complete Flutter course by the [Dr. Angela Yu](https://twitter.com/angelayu_) on Udemy.
+- [Flutter Bootcamp with Dart](https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart): A complete Flutter course by the [Dr. Angela Yu](https://twitter.com/yu_angela) on Udemy.
 
 - [Flutter & Dart - The Complete Guide](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/): A complete Flutter course by the [Maximilian Schwarzmüller](https://twitter.com/maxedapps) on Udemy.
 
@@ -199,6 +207,8 @@
 
 
 OP: Thanks for the help! I'll check it out.
+
+Feel free to share your own Flutter resources and you can add them to the list.
 
 
 # Follow me on 
