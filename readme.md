@@ -5,7 +5,6 @@
         final res=await getFlutterResources();
         print(res);
    }
-
 ```
 
 ## Introduction
